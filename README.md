@@ -24,8 +24,8 @@ git clone https://github.com/atphosphate/ArpPoison.git
 sudo python3 arp_posion.py --target <target-ip> -gateway <gateway-ip>
 ```
 ## Arguments
---target: The IP address of the target device.
---gateway: The IP address of the gateway or router.
+- **--target**: The IP address of the target device.
+- **--gateway**: The IP address of the gateway or router.
 
 # Disclaimer
 This tool is for educational purposes only. Unauthorized use of this tool is illegal.
