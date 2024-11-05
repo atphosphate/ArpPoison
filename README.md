@@ -1,8 +1,9 @@
 # Setup
-´´´bash
+```bash
 git clone https://github.com/atphosphate/ArpPoison.git
-´´´
+```
 
 # Usage
-´´´bash
+```bash
 python arp_posion.py -t <target-ip> -g <gateway-ip>
+```
